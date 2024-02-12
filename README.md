@@ -8,6 +8,8 @@
 ➡️ [ylecomments.py - yle comment section api wrapper](https://github.com/juhanias/ylecomments)
 
 ➡️ folibus.js (wip) - turku region public transit system api wrapper
+<br><br><br>
+📧 juhani.astikainen@gmail.com
 
 <!--
 **juhanias/juhanias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
