@@ -7,6 +7,8 @@
 ## some projects
 ➡️ [ylecomments.py - yle comment section api wrapper](https://github.com/juhanias/ylecomments)
 
+➡️ [ylechatscraper - a command line tool for scraping the live chat feed of past yle streams](https://github.com/juhanias/ylecommentscraper)
+
 ➡️ folibus.js (wip) - turku region public transit system api wrapper
 <br><br><br>
 📧 juhani.astikainen@gmail.com
