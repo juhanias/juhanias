@@ -2,7 +2,7 @@
 
 [Taitaja24-finalist (206 Web-development)](https://www.skillsfinland.fi/taitaja-tapahtuma)
 
-➡️ [Taitaja24-semifinal](https://github.com/juhanias/taitaja24-semifinal) - php-based website made for taitaja24, in 6 hours. it landed in 4th place 🎉
+➡️ [Taitaja24-semifinal](https://github.com/juhanias/taitaja24-semifinal) - php-based website made for taitaja24, in 6 hours. it landed in 4th place 🎉 (temp privated!)
 
 ## some projects
 ➡️ [ylecomments.py - yle comment section api wrapper](https://github.com/juhanias/ylecomments)
