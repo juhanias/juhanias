@@ -9,7 +9,8 @@
 
 ➡️ [ylechatscraper - a command line tool for scraping the live chat feed of past yle streams](https://github.com/juhanias/ylechatscraper)
 
-➡️ folibus.js (wip) - turku region public transit system api wrapper
+➡️ [safka.juhanias.dev - a website for viewing the menu for Juhannuskukkula's student restaurant](https://github.com/juhanias/safka.juhanias.dev)
+
 <br><br><br>
 📧 juhani.astikainen@gmail.com
 
