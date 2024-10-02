@@ -11,7 +11,7 @@
 
 ➡️ [safka.juhanias.dev - a website for viewing the menu for Juhannuskukkula's student restaurant](https://github.com/juhanias/safka.juhanias.dev)
 
-➡️ [Kyselysivu - a kahoot-like website for making customizable quizzes with images and a leaderboard (made in 3 days, code may be harsh)](https://github.com/kyselysivu/api) (ft. @ananazzo @Finfeny)
+➡️ [Kyselysivu - a kahoot-like website for making customizable quizzes with images and a leaderboard (made in 3 days, code may be harsh)](https://github.com/kyselysivu/api) (ft. @Ananazzo @Finfeny)
 
 <br><br><br>
 📧 juhani.astikainen@gmail.com
