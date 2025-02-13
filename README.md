@@ -1,5 +1,4 @@
 # Juhani Astikainen 👋
-
 [Taitaja2024 & Taitaja2025-finalist (206 Web-development)](https://www.skillsfinland.fi/taitaja-tapahtuma)
 
 ## some projects
@@ -11,7 +10,10 @@
 
 ➡️ [Kyselysivu - a kahoot-like website for making customizable quizzes with images and a leaderboard (made in 3 days, code may be harsh)](https://github.com/kyselysivu/api) (ft. [@Ananazzo](https://github.com/Ananazzo) [@Finfeny](https://github.com/Finfeny))
 
-<br><br><br>
+<br>
+<!-- viewcount tracking out of personal curiosity -->
+<img width="0" height="0" src="https://komarev.com/ghpvc/?username=Juhanias" alt="Profile Views"/>
+
 📧 juhani.astikainen@gmail.com
 
 <!--
