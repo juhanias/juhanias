@@ -10,6 +10,8 @@
 
 ➡️ [Kyselysivu - a kahoot-like website for making customizable quizzes with images and a leaderboard (made in 3 days, code may be harsh)](https://github.com/kyselysivu/api) (ft. [@Ananazzo](https://github.com/Ananazzo) [@Finfeny](https://github.com/Finfeny))
 
+➡️ [bussit.juhanias.dev - an unfinished bus tracking website made with plain js and jquery](https://github.com/juhanias/bussit.juhanias.dev)
+
 <br>
 <!-- viewcount tracking out of personal curiosity -->
 <img width="0" height="0" src="https://komarev.com/ghpvc/?username=Juhanias" alt="Profile Views"/>
