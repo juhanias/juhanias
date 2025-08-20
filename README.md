@@ -1,5 +1,5 @@
 # Juhani Astikainen 👋
-[Taitaja2024 & Taitaja2025-finalist (206 Web-development)](https://www.skillsfinland.fi/taitaja-tapahtuma)
+[Taitaja2024-finalist & Taitaja2025-medalist (206 Web-development)](https://www.skillsfinland.fi/taitaja-tapahtuma)
 
 ## some projects
 ➡️ [ylecomments.py - yle comment section api wrapper](https://github.com/juhanias/ylecomments)
