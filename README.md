@@ -1,16 +1,8 @@
 # Juhani Astikainen 👋
 [Taitaja2024-finalist & Taitaja2025-medalist (206 Web-development)](https://www.skillsfinland.fi/taitaja-tapahtuma)
 
-## some projects
-➡️ [ylecomments.py - yle comment section api wrapper](https://github.com/juhanias/ylecomments)
-
-➡️ [ylechatscraper - a command line tool for scraping the live chat feed of past yle streams](https://github.com/juhanias/ylechatscraper)
-
-➡️ [safka.juhanias.dev - a website for viewing the menu for Juhannuskukkula's student restaurant](https://github.com/juhanias/safka.juhanias.dev)
-
-➡️ [Kyselysivu - a kahoot-like website for making customizable quizzes with images and a leaderboard (made in 3 days, code may be harsh)](https://github.com/kyselysivu/api) (ft. [@Ananazzo](https://github.com/Ananazzo) [@Finfeny](https://github.com/Finfeny))
-
-➡️ [bussit.juhanias.dev - an unfinished bus tracking website made with plain js and jquery](https://github.com/juhanias/bussit.juhanias.dev)
+## cool things
+➡️ https://github.com/juhanias/lukkarikone
 
 <br>
 <!-- viewcount tracking out of personal curiosity -->
